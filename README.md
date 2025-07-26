@@ -64,6 +64,22 @@ Welcome! This repository curates official career pages of 50+ renowned IT compan
 | Synesis IT             | [Career](https://synesisit.com.bd/career/)                                       |
 | Priyo                  | [Career](https://www.priyo.com/jobs/)                                            |
 | Durbar Technologies    | [Career](https://www.durbartech.com/career/index.php)                            |
+| All Gen Tech           | [Career](https://allgentech.bamboohr.com/careers)                                |
+| TechnoNext             | [Career](https://technonext.com/career)                                          |
+| Samsung R&D            | [Career](https://research.samsung.com/careers)                                   |
+| Monstar Lab            | [Career](https://monstar-lab.com/bd/about/careers/)                              |
+| Orbitax                | [Career](https://www.linkedin.com/company/orbitax/jobs/)                         |
+| Optimizely             | [Career](https://careers.optimizely.com/search/)                                 |
+| Vivasoft               | [Career](https://vivasoftltd.com/career/#open-position)                          |
+| Craftsmen              | [Career](https://careers.craftsmensoftware.com/jobs)                             |
+| Welldev                | [Career](https://www.welldev.io/careers)                                         |
+| Pathao                 | [Career](https://career.pathao.com/#position)                                    |
+| Chaldal                | [Career](https://chaldal.com/t/Career)                                           |
+| ShareTrip              | [Career](https://www.linkedin.com/company/sharetrip/jobs/)                       |
+| ShopUp                 | [Career](https://www.shopup.org/career)                                          |
+| Jatri                  | [Career](https://jatri.co/career#job-opening)                                    |
+| TigerIT                | [Career](https://www.linkedin.com/company/tigerit-bangladesh-limited/posts/)     |
+| Dynamic Solution       | [Career](https://app.hrythmic.com/recruit/openings/company/dsinnovators/)        |
 
 ---
 
