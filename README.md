@@ -80,6 +80,7 @@ Welcome! This repository curates official career pages of 50+ renowned IT compan
 | Jatri                  | [Career](https://jatri.co/career#job-opening)                                    |
 | TigerIT                | [Career](https://www.linkedin.com/company/tigerit-bangladesh-limited/posts/)     |
 | Dynamic Solution       | [Career](https://app.hrythmic.com/recruit/openings/company/dsinnovators/)        |
+| KUIPERZ                | [Career](https://kuiperz.io/careers/)                                            |
 
 ---
 
