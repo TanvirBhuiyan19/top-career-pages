@@ -83,6 +83,8 @@ Welcome! This repository curates official career pages of 50+ renowned IT compan
 | Dynamic Solution       | [Career](https://app.hrythmic.com/recruit/openings/company/dsinnovators/)        | Not Specified     |
 | KUIPERZ                | [Career](https://kuiperz.io/careers/)                                            | Not Specified     |
 | Tenbyte                | [Career](https://tenbyte.com.my/jobs/)                                           | Not Specified     |
+| Field Nation           | [Career](https://jobs.lever.co/fieldnation?location=Dhaka)                       | Hybrid            |
+
 
 ### Work Type Definitions
 - **Onsite**: Work is primarily performed at the company’s office.
