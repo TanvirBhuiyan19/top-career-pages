@@ -82,6 +82,7 @@ Welcome! This repository curates official career pages of 50+ renowned IT compan
 | Dynamic Solution       | [Career](https://app.hrythmic.com/recruit/openings/company/dsinnovators/)        |
 | KUIPERZ                | [Career](https://kuiperz.io/careers/)                                            |
 | Tenbyte                | [Career](https://tenbyte.com.my/jobs/)                                           |
+| Field Nation           | [Career](https://jobs.lever.co/fieldnation?location=Dhaka)                       |
 
 ---
 
